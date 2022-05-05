@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "elliptic": "^6.5.4",
+    "js-sha256": "^0.9.0",
+    "ripemd160": "^2.0.2",
+    "secp256k1": "^4.0.3",
+    "secure-random": "^1.1.2"
+  }
+}
